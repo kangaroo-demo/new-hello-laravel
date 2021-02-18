@@ -7,21 +7,25 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## 一个新的Hello Laravel项目
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+用于学习PHP7 和 Laravel 8.x的简单示例。
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 关于 Laravel
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Laravel是一个具有表现力强、语法优雅的web应用程序框架。我们认为，发展必须是一种愉快和创造性的经历，才能真正实现。Laravel通过减轻许多web项目中使用的常见任务来减轻开发的痛苦，例如：
 
-## Learning Laravel
+- [简单、快速的路由引擎](https://laravel.com/docs/routing).
+- [强大的依赖注入容器](https://laravel.com/docs/container).
+- [会话]的多个后端(https://laravel.com/docs/session)和[缓存](https://laravel.com/docs/cache)储存。
+- 表现力强，直观[数据库ORM](https://laravel.com/docs/eloquent).
+- 数据库 [模式迁移](https://laravel.com/docs/migrations).
+- [强大的后台作业处理](https://laravel.com/docs/queues).
+- [实时事件广播](https://laravel.com/docs/broadcasting).
+
+Laravel是可访问的、强大的，并且提供了大型、健壮的应用程序所需的工具
+
+## 学习 Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
